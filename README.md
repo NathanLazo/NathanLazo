@@ -4,7 +4,7 @@ Hi 👋 My name is Nathan Lazo
 Full Stack developer
 --------------------
 
-With more than 2 years of experience in the area of virtual environments and digital businesses. My strenghts are Javascript based technologies such as Node.js and React.js. I love blockchain technology and NFT's, so I have learned Solidity to create smart contracts and create my one Decentreliced Applications.
+With more than 2 years of experience in the area of virtual environments and digital businesses. My strenghts are Javascript based technologies such as Node.js and React.js. I love blockchain technology and NFT's, so I have learned Solidity to create smart contracts and create my own Decentreliced Applications.
 
 * 🌍  I'm based in Austin, TX
 * 🧠  I'm learning Blockchain development
