@@ -45,6 +45,7 @@ With more than 2 years of experience in the area of virtual environments and dig
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://es.m.wikipedia.org/wiki/Archivo:Valorant_logo_-_pink_color_version.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
 
