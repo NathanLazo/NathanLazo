@@ -9,7 +9,7 @@ With more than 2 years of experience in the area of virtual environments and dig
 * 🌍  I'm based in Austin, TX
 * 🧠  I'm learning Blockchain development
 * 🤝  I'm open to collaborating on new and unusual projects
-* ⚡  I love game development on web applications so I've learned Three.js library
+* ⚡  I love game development on web applications
 
 ### Skills
 
