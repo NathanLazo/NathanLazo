@@ -6,10 +6,9 @@ Full Stack developer
 With more than 3 years of experience in the area of virtual environments and digital businesses. My strenghts are Javascript based technologies such as Node.js and React.js. I work with blockchain technology so I have learned Solidity to create smart contracts.
 
 * 🌍  I'm based in Austin, TX
-* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborate on new and unusual projects
 * 🚀  I'm good at solving problems with javascript
-* 🌱 I’m currently learning **AI**
+* 🧠 I’m currently learning **AI**
 * 🤝 I’m looking for help with web3 projects [blockchain business school](https://blockchainbusinessschool.io)
 * 👨‍💻 All of my projects are available at [https://nathan-lazo.website](https://nathan-lazo.website)
 * 💬 Ask me about **Javascript, Typescript and related frameworks**
