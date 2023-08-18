@@ -26,12 +26,6 @@ With more than 3 years of experience in the area of virtual environments and dig
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NathanLazo/count.svg?"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/NathanLazo/NathanLazo/output/snake.svg" alt="Snake animation" />
 
 
