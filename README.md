@@ -1,4 +1,4 @@
-![snake animation](https://github.com/NathanLazo/NathanLazo/blob/output/github-contribution-grid-snake2.svg)
+
 
 <h1 align="center">Hi 👋 My name is Nathan Lazo</h1>
 
@@ -29,7 +29,7 @@ With more than 3 years of experience in the area of virtual environments and dig
 ###
 
 
-
+![Snake animation](https://github.com/NathanLazo/NathanLazo/blob/output/github-contribution-grid-snake.svg)
 
 
 
