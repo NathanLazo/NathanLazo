@@ -26,7 +26,7 @@ With more than 3 years of experience in the area of virtual environments and dig
 
 ###
 
-<img src="https://raw.githubusercontent.com/NathanLazo/NathanLazo/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
