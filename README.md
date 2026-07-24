@@ -5,7 +5,7 @@
 Full Stack developer
 --------------------
 
-With more than 5 years of experience in the area of virtual environments and digital businesses. My strenghts are Javascript/Typescript based technologies and I work with blockchain so I have learned Solidity and Rust to create smart contracts.
+With more than 7 years of experience in the area of virtual environments and digital businesses. My strenghts are Javascript/Typescript based technologies and I work with blockchain so I have learned Solidity and Rust to create smart contracts.
 
 * 🤝  I'm open to collaborate on new and unusual projects
 * 👨‍💻 All of my projects are available at [https://nathan-lazo.com](https://nathan-lazo.vercel.app)
